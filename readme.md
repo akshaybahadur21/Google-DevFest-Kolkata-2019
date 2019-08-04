@@ -8,7 +8,7 @@ This repository contains python notebooks for my talk at Google DevFest, Kolkata
 
 ## [SlideShare](https://www.slideshare.net/AkshayBahadur/google-devfest-kolkata19-160113923)
 
-### [Python Notebook for the conference](https://nbviewer.jupyter.org/github/akshaybahadur21/Google-DevFest-Kolkata-2019/blob/master/DevFest.ipynb)
+### [Python Notebook for the conference](https://nbviewer.jupyter.org/github/akshaybahadur21/Google-DevFest-Kolkata-2019/blob/master/Google_DevFest_Kolkata_2019_.ipynb)
 
 ### Code Requirements
 You can install Conda for python which resolves all the dependencies for machine learning.
