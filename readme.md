@@ -1,14 +1,14 @@
-# PyData Pune - 27th July, 2019 
-## Haptic Learning : Inferencing human features using deep networks 
+# Google DevFest Kolkata - 4th August, 2019 
+## Minimizing CPU utilization for Deep Networks.
  [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Emojinator/blob/master/LICENSE.md)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 
 This repository contains python notebooks for my talk at Google DevFest, Kolkata.
 
 ## [Colab link](https://colab.research.google.com/drive/15b1CxgenWqLIbrgA_9Y-UKqJVM9jh1QE)
 
-## [SlideShare] (https://www.slideshare.net/AkshayBahadur/google-devfest-kolkata19-160113923)
+## [SlideShare](https://www.slideshare.net/AkshayBahadur/google-devfest-kolkata19-160113923)
 
-### [Python Notebook for the conference](https://nbviewer.jupyter.org/github/akshaybahadur21/PyData-Pune-2019/blob/master/PyData_Pune_2019.ipynb)
+### [Python Notebook for the conference](https://nbviewer.jupyter.org/github/akshaybahadur21/Google-DevFest-Kolkata-2019/blob/master/DevFest.ipynb)
 
 ### Code Requirements
 You can install Conda for python which resolves all the dependencies for machine learning.
